@@ -3,7 +3,7 @@ Let's get acquainted!
 
 My name is Natalia, and I am a junior front-end (React) developer with a background in the legal field and one year of coding experience 💻
 
-Look at my team and personal projects below ⬇️
+Look at my personal and team projects below ⬇️ and ![here](https://github.com/TaleQ?tab=repositories)
 
 Contact me at natalie.k.dev@gmail.com 📫
 ![](https://hit.yhype.me/github/profile?user_id=112168059)
