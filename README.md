@@ -2,7 +2,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=112168059)
 
 
-<!--![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=taleq&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&bg_color=00000000&text_color=ffffff) -->
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=taleq&locale=en&hide_title=false&layout=compact&card_width=320&theme=github_dark&hide_border=false&bg_color=00000000&text_color=ffffff)
 
 <!-- ![Views](https://komarev.com/ghpvc/?username=taleq&color=blue) -->
 
