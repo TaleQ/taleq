@@ -1,7 +1,7 @@
 ### Hello!👋👋👋
 Let's get acquainted! 
 
-My name is Natalia, and I am a junior front-end (React) developer with a background in the legal field and one year of coding experience 💻
+My name is Natalia, and I am a junior front-end (React) developer with a background in the legal field 💻
 
 Look at my personal and team projects below ⬇️ and [here](https://github.com/TaleQ?tab=repositories)
 
